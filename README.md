@@ -1,3 +1,13 @@
+# Repositório de Cassiano Brexbit
+
+  Consegui habilitar a chave de acesso da AWS.
+  Instalei o CLI no windows
+  Consegui fazer comunicar meu pc com a AWS
+  Consegui criar a tabela
+  Consegui inserir um item e também múltiplos itens
+  Não consegui inserir o index global secundário, deu erro.
+  As pesquisas também não funcionaram.
+  
 # dio-live-dynamodb
 Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB
 
